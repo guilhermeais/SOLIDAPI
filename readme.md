@@ -9,7 +9,7 @@
   O que é o S.O.L.I.D? 
 </h3>
 
-<p>SOLID são princípios da programação orientada a objetos criados por <e>Michael Feathers</e> que tem como objetivo, facilitar o desenvolvimento de software, deixando ele mais fácil de entender, maneter e estender.</p>
+<p>SOLID são princípios da programação orientada a objetos criados por <e>Michael Feathers</e> que tem como objetivo, facilitar o desenvolvimento de software, deixando ele mais fácil de entender, manter e estender.</p>
 <p>Cada letra do S.O.L.I.D representa um principio, no qual.</p>
 <ol>
   <li><b> S - Single Responsiblity Principle (Princípio da responsabilidade única)</b></li>
