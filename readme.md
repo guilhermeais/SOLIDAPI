@@ -13,7 +13,7 @@
 <p>Cada letra do S.O.L.I.D representa um principio, no qual.</p>
 <ol>
   <li><b> S - Single Responsiblity Principle (Princípio da responsabilidade única)</b></li>
-  <p>Cada classe/arquivo na nossa aplicação, deve ter apenas uma única responsabilidade. Aquele controller que faz tudo, pode até parecer eficiente de primeira vista. Mas, quando as responsabilidades começarem a se misturar e for necessário alguma manutenção, será dificil modificar alguma resonsabilidade sem quebrar várias outras coisas que dependem dessa responsabilidade</p>
+  <p>Cada classe/arquivo na nossa aplicação, deve ter apenas uma única responsabilidade. Aquela classe que faz de tudo, pode até parecer eficiente de primeira vista. Mas, quando as responsabilidades começarem a se misturar e for necessário alguma manutenção, será dificil modificar alguma resonsabilidade sem quebrar várias outras coisas que dependem dessa responsabilidade</p>
   <h3>Um exemplo de (SRP) Single Responsiblity Principle na nossa aplicação: </h3>
   <h4>Um exemplo, é a a classe resposável pela criação do usuário, a CreateUserUseCase (ela valida e cria), ela não se importa nem um pouco em como esse usuário será criado, qual banco de dados será usado nem nada do tipo... Ela apenas utiliza um método de uma interface que representa as possíveis manipulações com o usuário, como, criar, editar... E passa os dados validados e recebidos para ela, independente de como essa interface for implementada.</h4>
   
