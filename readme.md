@@ -4,7 +4,7 @@
 <p align="center"> Há alguns dias, me veio a curiosidade de entender a ideia por trás dos principios <b>S.O.L.I.D</b> e como eles funcionam na prática.</p>
 <p align="center"> E foi quando eu dei uma leve pesquisada e vi que isso não seria algo que se entenderia da noite pro dia (bom, pelo menos eu não...) .</p>
 <p align="center"> Então, resolvi dar uma olhada mais afundo, e vou tentar resumir o que eu entendi até agora. Não é nada muito concreto, é um conhecimento que acredito que ainda esteja na minha memoria de curto prazo, mas tentar explicar isso tudo aqui, com certeza vai fazer com que esse conhecimento cresça e permaneça por mais tempo na minha memoria! Então, vamos lá!</p>
-<i>Toda a aplicação foi feita e estudada usando um Code/Drop da <b>RocketSeat</b>, quem quiser ter acesso ao conteudo, é só <a href="https://www.youtube.com/watch?v=vAV4Vy4jfkc">clicar aqui</a> </i>
+<i>Toda a aplicação foi feita e estudada usando um Code/Drop da <b>RocketSeat</b>, quem quiser ter acesso ao conteudo, é só <a href="https://www.youtube.com/watch?v=vAV4Vy4jfkc" target="_blank"  >clicar aqui</a> </i>
 <h3 align="center">
   O que é o S.O.L.I.D? 
 </h3>
